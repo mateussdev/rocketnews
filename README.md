@@ -1,3 +1,5 @@
+![Logo of the project](https://github.com/mateussdev/rocketnews/blob/main/assets/logo.svg)
+
 # RocketNews
 <!--  Página criada como estudo, desafio proposto na trilha Discover da plataforma de ensino da Rocketseat! -->
 Page created as a study, a challenge proposed on the Discover trail of the Rocketseat teaching platform!
